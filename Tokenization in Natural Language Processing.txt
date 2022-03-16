@@ -1,0 +1,15 @@
+Tokenization in Natural Language Processing
+
+Sentence Tokenization
+
+Read a text file in Java.
+Read string in the text file.
+Read the file and break the text into sentences. (Use full-stop as an identifier to start/end of the sentence.)
+Save/write each sentence as separate sentence files in the same folder.
+
+Word Tokenization
+
+Code to read all the sentence files. 
+Break the sentences into a set of words. 
+Lower case all the words to maintain uniformity. 
+Display the list of words.
